@@ -1,0 +1,23 @@
+Verbose output
+
+level 1 
+= shows which config file is using 
+= list host_list requirements
+  lists script requirements
+
+level 2
+= show the location of config file
+  shows configured modules
+  shows executable location
+  shows python version
+= show metadata
+= shows task path
+level 3 
+= shows number of plays
+= shows facts
+= 
+
+level 4
+
+level 5
+= tells which modules is being used
